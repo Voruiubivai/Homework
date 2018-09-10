@@ -5,7 +5,6 @@
 
 # ## I. Roman numerals to decimals
 # 
-# Write a function which receives a Roman numeral written out as a string, and returns an integer representing the decimal form of the input number. 
 
 # In[1]:
 
